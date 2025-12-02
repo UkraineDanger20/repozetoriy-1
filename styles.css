@@ -1,0 +1,23 @@
+.body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #14339b;
+    color: #14129b;
+}
+.animal-image {
+    width: 300px;
+    height: auto;
+    border: 2px solid #000;
+    border-radius: 10px;
+    margin: 20px;
+}
+.header {
+    text-align: center;
+    padding: 20px;
+}
+h1 {
+    color: #cecb13;
+    font-size: 36px;
+    text-align: center;
+}
